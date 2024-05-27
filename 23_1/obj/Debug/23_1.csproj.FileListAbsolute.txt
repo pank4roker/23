@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\23_1\bin\Debug\23_1.exe.config
+C:\Users\Kab-31-13\Desktop\23_1\bin\Debug\23_1.exe
+C:\Users\Kab-31-13\Desktop\23_1\bin\Debug\23_1.pdb
+C:\Users\Kab-31-13\Desktop\23_1\obj\Debug\23_1.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\23_1\obj\Debug\23_1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\23_1\obj\Debug\23_1.exe
+C:\Users\Kab-31-13\Desktop\23_1\obj\Debug\23_1.pdb
